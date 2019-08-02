@@ -7,8 +7,8 @@ this script is made to trace location using ip , perl programming used to make t
 2. sudo apt-get install libwww-mechanize-perl
 3. git clone https://github.com/CYBERSECARYAN/IP_TRACE_LOCATION.git
 4. cd IP_TRACE_LOCATION
-5. chmod +x Ip_Trace_Location
-6. perl Ip_Trace_Location
+5. chmod +x Ip_Trace_Location.pl
+6. perl Ip_Trace_Location.pl
 
 ======================================================================
 
