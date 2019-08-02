@@ -17,7 +17,7 @@ Sample output :
 
 Syntax: perl iplocator.pl 113.20.253.63
 
-[!] IP: 113.20.253.63
+[!] IP: 000.00.000.00
 ------------------------------------
   [+] ORG: AS9351 ZTV CO.,LTD
   [+] ISP: ZTV CO., LTD
